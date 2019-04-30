@@ -8,3 +8,4 @@ http_archive(
      urls = ["https://github.com/abseil/abseil-cpp/archive/master.zip"],
      strip_prefix = "abseil-cpp-master",
 )
+Work space file may use in jenkins not at other languages
